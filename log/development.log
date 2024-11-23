@@ -32,3 +32,6 @@ Writing rails-ujs.esm-e925103b.js
   [1m[35m (261.6ms)[0m  [1m[35mCREATE DATABASE "portfolio_villegas_development" ENCODING = 'unicode' /*application='PortfolioVillegas'*/[0m
   [1m[35mSQL (0.2ms)[0m  [1m[35mSET search_path TO public /*application='PortfolioVillegas'*/[0m
   [1m[35m (145.0ms)[0m  [1m[35mCREATE DATABASE "portfolio_villegas_test" ENCODING = 'unicode' /*application='PortfolioVillegas'*/[0m
+  [1m[35m (27.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY) /*application='PortfolioVillegas'*/[0m
+  [1m[35m (9.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL) /*application='PortfolioVillegas'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='PortfolioVillegas'*/[0m
