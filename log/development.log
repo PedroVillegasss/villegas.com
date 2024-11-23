@@ -1,0 +1,34 @@
+Writing application-bb3a7f6f.js
+Writing application-a287cdb7.css
+Writing application-221bfd71.js.map
+Writing application.bootstrap-523a3562.scss
+Writing bootstrap-icons-c81f67ef.scss
+Writing bootstrap-icons-e8095da5.json
+Writing bootstrap-icons.min-dbff79f1.css
+Writing fonts/bootstrap-icons-61efca6d.woff
+Writing fonts/bootstrap-icons-7b0bd792.woff2
+Writing bootstrap-icons-ca6a1a61.css
+Writing stimulus-autoloader-9d447422.js
+Writing stimulus-loading-1fc53fe7.js
+Writing stimulus-d59b3b7f.js
+Writing stimulus-importmap-autoloader-64cc03e1.js
+Writing stimulus.min-4b1e420e.js
+Writing stimulus.min-2395e199.js.map
+Writing turbo.min-5dd5a71a.js.map
+Writing turbo-86e38c3c.js
+Writing turbo.min-fae85750.js
+Writing trix-4f753c97.js
+Writing actiontext.esm-f1c04d34.js
+Writing actiontext-a4ee937e.js
+Writing trix-c4e7be2d.css
+Writing actioncable-ac25813f.js
+Writing actioncable.esm-e0ec9819.js
+Writing action_cable-5212cfee.js
+Writing activestorage-32201f68.js
+Writing activestorage.esm-f2909226.js
+Writing rails-ujs-20eaf715.js
+Writing rails-ujs.esm-e925103b.js
+  [1m[35mSQL (0.2ms)[0m  [1m[35mSET search_path TO public /*application='PortfolioVillegas'*/[0m
+  [1m[35m (261.6ms)[0m  [1m[35mCREATE DATABASE "portfolio_villegas_development" ENCODING = 'unicode' /*application='PortfolioVillegas'*/[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[35mSET search_path TO public /*application='PortfolioVillegas'*/[0m
+  [1m[35m (145.0ms)[0m  [1m[35mCREATE DATABASE "portfolio_villegas_test" ENCODING = 'unicode' /*application='PortfolioVillegas'*/[0m
