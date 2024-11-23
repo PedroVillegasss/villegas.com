@@ -23,7 +23,16 @@
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
   </head>
 
-  <body>
-    <%= yield %>
+  <body class="<%= cookies[:theme] %>">
+
+    <div>
+      <%= link_to 'light', set_theme_path(theme: 'light') %>
+      <%= link_to 'dark', set_theme_path(theme: 'dark') %>
+    </div>
+
+    <div>
+      <%= yield %>
+    </div>
+
   </body>
 </html>
