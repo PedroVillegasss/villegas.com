@@ -38,10 +38,23 @@ h1 {
     line-height: 72px;
     letter-spacing: -2px;
     font-weight: 700;
+    color: #101727;
+}
+
+h3 {
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -2px;
+    font-weight: 600;
+    color: #101727;
 }
 
 p {
     font-size: 16px;
     line-height: 28px;
     font-weight: 400;
+}
+
+a {
+    text-decoration: none;
 }
